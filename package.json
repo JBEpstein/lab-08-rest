@@ -1,0 +1,30 @@
+{
+  "name": "lab-08-rest",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) Lab 08: Vanilla REST API\r ======",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBEpstein/lab-08-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBEpstein/lab-08-rest/issues"
+  },
+  "homepage": "https://github.com/JBEpstein/lab-08-rest#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "jest": "^21.2.1",
+    "mocha": "^4.0.1",
+    "superagent": "^3.8.1",
+    "uuid": "^3.1.0"
+  }
+}
